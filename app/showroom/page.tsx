@@ -25,9 +25,9 @@ export default function Showroom() {
           </Box> */}
 
           
-          <Tree position={[-2, 0, 0]} />
-          <Tree position={[0, 0, 0]} />
-          <Tree position={[2, 0, 0]} />
+          <Tree position={[-2, 0, -1]} />
+          <Tree position={[0, 0, 2]} />
+          <Tree position={[2, 0, -1]} />
 
 
           <EffectComposer>
